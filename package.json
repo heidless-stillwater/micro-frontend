@@ -41,5 +41,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://micro-frontend-njepcfc3la-ew.a.run.app"
+  "proxy": "http://localhost:8000"
 }
